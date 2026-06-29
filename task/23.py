@@ -1,0 +1,11 @@
+# Swap using three numbers 
+
+a=int(input())
+b=int(input())
+
+temp=a
+a=b
+b=temp
+
+print("a :",a)
+print("b :",b)
